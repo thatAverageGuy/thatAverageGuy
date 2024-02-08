@@ -1,11 +1,17 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ200dG9xZWs1eGJjc3ZsY3lpOGFjbXRxY2ZhbnZuY2lqbWRrY3hnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FB2zNlpXEUULaluEF/giphy.gif" width="300">
 </p>
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/3o6Zt481isNVuQIuW8/giphy.gif" width="30"></h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+</p>
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60"></h1>
 <h2 align="center"> I'm Yogesh Kumar Singh, <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=0074C8&lines=a+Passionate+Coder;a+ML+Engineer;a+Quick+Learner;a+Multitasker"></h2>
 
 ## About Me
+
+<img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
+
 
 🤖 I am a Machine Learning enthusiast 🧠 with a passion for creating innovative solutions that bridge the gap between cutting-edge AI technologies and practical applications. With a strong foundation in ML technologies 📊, I am driven by curiosity 🕵️‍♂️ and the desire to make a meaningful impact through technology 💥.
 
@@ -16,7 +22,33 @@ I come with over 2 years of experience ⏳ in the field of Machine Learning, spe
 - **Natural Language Processing (NLP)** 🗣️: Solving challenges in NER 🎯, text classification 📝, and generative tasks 🌟 with LLMs 📚. I've had hands-on experience with frameworks like Langchain and Embedchain.
 - **And Others** 🌐: Applying AI to solve problems in other areas, focusing on claims digitization 📑, entity extraction 🕵️‍♂️, analysis 📊, and fraud prevention in healthcare domain.
 
+
+<h2 align="center"> I am Co-founder at VenaAI </h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlY205MXR4cjJ5M3l6Y2I0N3ZmZmkyZTZ3dDhzYmZ5eDltN29vZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSzaQwFrv1v2QfVYdN/giphy.gif" width="180">
+</p>
+
+<p align="center">
+  As a co-founder at VenaAI, I actively contribute to our mission as an AI consultancy dedicated to providing top-notch solutions. Our focus areas encompass Data Analytics, APIs, Computer Vision, Natural Language Processing, and Generative AI. With a seasoned team, we specialize in delivering tailored solutions for diverse client needs.
+</p>
+<br>
+<p align="center">
+  In my role, I play a crucial part in steering VenaAI towards its goals. From dashboard building to real-time AI applications, our team thrives on handling a spectrum of projects. The experience at VenaAI has provided me with valuable insights into the practical applications of AI technologies, making it an ongoing journey of exploration and contribution.
+</p>
+
+<p align="center">
+  <samp>
+    <br>
+    Explore <a href="https://venaai.com">VenaAI's Website</a>!  for a closer look at our ongoing projects and initiatives.
+  </samp>
+</p>
+
 ## Weaponry:
+
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQzMnd5aWdlbWtnNXhxZ2ZxMWV6azdvOTIzZmN1ZDY3ZGdoNHh1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0i9Pp1U5Zsh911h08g/giphy-downsized-large.gif" width="200"> 
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -42,17 +74,26 @@ I come with over 2 years of experience ⏳ in the field of Machine Learning, spe
 ![Transformer](https://img.shields.io/badge/-Transformer-FF5733?logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3498DB?logoColor=white)
 
+<br>
 
+ 
 ## Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdmbGpzbmd5YndsNGhra2Z6dm9vcHN6cWEwYWd6YWk4eGxnNzd3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWahBZ2NUDopLl1pXD/source.gif" width="150">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
+![Sublime Text](https://img.shields.io/badge/Sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) <br>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) <br>
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) <br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) <br>
 
 
 <!-- Stats -->
 <h2 align="center">GitHub Stats 📈</h2>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN6OHp0ODNxN3V4ZGY5amkwNXNndmgybTBzMDh3a2lmcnl6aDJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwtFKpHiD9spCNdZaa/source.gif" width="180">
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatAverageGuy&show_icons=true&theme=radical">
   <br>
@@ -71,8 +112,11 @@ I come with over 2 years of experience ⏳ in the field of Machine Learning, spe
   <img src="https://komarev.com/ghpvc/?username=thatAverageGuy&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE2cTN0Z3o2NDF4YzZneTkyY2I1N3MzZ3d6cGJuNmRzOHV2a2ZzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lq440xy5t1aj3bsOtg/giphy.gif" width="185" height ="190">
+
 <!-- Contact -->
-<h2 align="center">🌐 Let's Connect!</h2>
+<h2 align="center">🌐 Let's Connect!</h2> 
 
 - 💬 Want to discuss AI, share ideas, or collaborate on a project? Feel free to reach out to me!
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/yogesh-kumar-singh-253467190/) for more about my professional journey.
@@ -89,3 +133,8 @@ Let's create a smarter, more automated future together! 🤝🤖
     Show some ❤️ by starring <a href="https://github.com/thatAverageGuy?tab=repositories">my repositories</a>!
   </samp>
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh5OTQyZDh3cnNxOGdwNmdvNXpkcXRneDFmdTJzN2drejV4b3JyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzjwoegCQQiFoJVXZy/source.gif" width="250">
+</p>
+
