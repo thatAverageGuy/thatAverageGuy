@@ -184,7 +184,7 @@ CPU-optimized real-time hand tracking using MediaPipe and OpenCV for gesture-bas
 - 💬 Want to discuss AI, share ideas, or collaborate on a project? Feel free to reach out!
 - 📱 Connect with me on **[LinkedIn](https://www.linkedin.com/in/yogi893/)** for my professional journey
 - 📧 Email me at **[yogesh.singh893@gmail.com](mailto:yogesh.singh893@gmail.com)**
-- 📄 Check my **[Resume](https://drive.google.com/file/d/18zy78F8r2tAIh3A5k2cf0e04ZT0PCyrk/view?usp=drivesdk)**
+- 📄 Check my **[Resume](https://drive.google.com/file/d/15dkLmWvTHaG6ZBRtyarMHeh1EDSAxDJv/view)**
 - 🐙 Explore my **[GitHub Repositories](https://github.com/thatAverageGuy?tab=repositories)**
 
 **Open to:**
