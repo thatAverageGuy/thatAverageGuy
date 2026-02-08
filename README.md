@@ -31,13 +31,11 @@
 <h2 align="center"> 🎨 Check Out My Portfolio </h2>
 
 <p align="center">
-
-<p align="center">
   Explore my portfolio website to see featured projects, professional experience, and technical skills in action! 
   <br><br>
   🌐 <a href="https://themlyogi.in"><b>Visit themlyogi.in</b></a>
   <br><br>
-  Featured projects include configurable LLM agents, multi-modal AI systems, real-time computer vision applications, and more!
+  Featured projects include configurable LLM agents, model quantization frameworks, multi-modal AI systems, real-time computer vision applications, and more!
 </p>
 
 <h2 align="center"> 🚀 Co-founder at VenaAI </h2>
@@ -145,22 +143,37 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
 
-## 🎯 Featured Projects
+## 🌟 Open Source Initiatives
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN6OHp0ODNxN3V4ZGY5amkwNXNndmgybTBzMDh3a2lmcnl6aDJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwtFKpHiD9spCNdZaa/source.gif" width="180">
+</p>
 
 ### 🤖 [Configurable Agents Framework](https://github.com/thatAverageGuy/configurable-agents)
-Flexible framework for building configurable LLM agents with customizable tools, prompts, and behaviors. Production-ready architecture for autonomous AI systems.
+**Production-ready LLM Agent Development Framework**
+- Flexible architecture for building configurable LLM agents with customizable tools, prompts, and behaviors
+- Modular design enabling rapid agent development and deployment
+- Advanced prompt engineering and tool integration for autonomous AI systems
+- **Tech Stack:** Python, LLMs, Agent Architecture, CrewAI
+
+### 💾 [Mono-Quant](https://github.com/thatAverageGuy/mono-quant)
+**Efficient Model Quantization Framework**
+- Advanced quantization framework for deploying large models in resource-constrained environments
+- Optimizes inference performance without sacrificing accuracy
+- Supports multiple quantization techniques and compression strategies
+- **Tech Stack:** PyTorch, Quantization, Model Optimization, ONNX
+
+## 🎯 Featured Projects
 
 ### 🧠 [EarlyFusion Visual Question Answering](https://github.com/thatAverageGuy/EarlyFusion-on-EasyVQA)
-Multi-modal AI combining vision and language processing. Streamlit application demonstrating practical VQA systems.
+Multi-modal AI combining vision and language processing. Streamlit application demonstrating practical VQA systems with advanced fusion techniques.
 
 ### 👁️ [Real-Time Object Detection](https://github.com/thatAverageGuy/Real-Time-Object-Detection-in-Browser)
-Browser-based object detection using custom-trained YOLOv5 models with web deployment optimization.
-
-### ✋ [Hand Tracking System](https://github.com/thatAverageGuy/HandTracking)
-CPU-optimized real-time hand tracking using MediaPipe and OpenCV for gesture-based interactions.
+Browser-based object detection using custom-trained YOLOv5 models with web deployment optimization for real-time inference.
 
 <!-- Stats -->
 <h2 align="center">GitHub Stats 📈</h2>
+
 <p align="center">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=thatAverageGuy&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96">
 </p>
